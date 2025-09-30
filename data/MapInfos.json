@@ -2,5 +2,8 @@
 null,
 {"id":1,"expanded":true,"name":"Plataforma da Estação","order":2,"parentId":2,"scrollX":811,"scrollY":460,"quick":false},
 {"id":2,"expanded":true,"name":"Loja de Conveniência","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":3,"expanded":true,"name":"Vila de Pescadores","order":3,"parentId":1,"scrollX":2048,"scrollY":800,"quick":true}
+{"id":3,"expanded":true,"name":"Vila de Pescadores (Dia)","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":736.6666666666666,"quick":true},
+{"id":4,"expanded":true,"name":"Torre do Relógio","order":5,"parentId":5,"scrollX":1081.3333333333333,"scrollY":711.3333333333334,"quick":false},
+{"id":5,"expanded":true,"name":"Vila de Pescadores (Noite)","order":4,"parentId":3,"scrollX":1081.3333333333333,"scrollY":622,"quick":true},
+{"id":6,"expanded":false,"name":"Casa Abandonada","order":6,"parentId":4,"scrollX":811,"scrollY":773.5,"quick":false}
 ]
